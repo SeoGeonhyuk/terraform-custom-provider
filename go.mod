@@ -3,9 +3,9 @@ module terraform-provider-hashicups
 go 1.22.1
 
 require (
-	github.com/hashicorp-demoapp/hashicups-client-go v0.1.0
+	github.com/SeoGeonhyuk/hashicups-client-go v0.0.0-20240703160829-3a063057a989
 	github.com/hashicorp/terraform-plugin-docs v0.19.4
-	github.com/hashicorp/terraform-plugin-framework v1.9.0
+	github.com/hashicorp/terraform-plugin-framework v1.10.0
 	github.com/hashicorp/terraform-plugin-go v0.23.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
 	github.com/hashicorp/terraform-plugin-testing v1.8.0
@@ -18,7 +18,6 @@ require (
 	github.com/Masterminds/semver/v3 v3.2.0 // indirect
 	github.com/Masterminds/sprig/v3 v3.2.3 // indirect
 	github.com/ProtonMail/go-crypto v1.1.0-alpha.2 // indirect
-	github.com/SeoGeonhyuk/hashicups-client-go v0.0.0-20240703160829-3a063057a989 // indirect
 	github.com/agext/levenshtein v1.2.2 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
